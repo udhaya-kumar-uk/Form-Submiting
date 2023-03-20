@@ -1,0 +1,34 @@
+
+  body{
+    background: linear-gradient(45deg, #FC466B, #3F5EFB);
+  }
+.container{
+    font-weight: bold;
+  margin: 20px;  
+  color: cornsilk;
+  height: 50vh;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.form{
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Gender{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    
+table{
+    background: linear-gradient(45deg, #FC466B, #3F5EFB);
+}
+thead,tbody,tr,td{
+    border: 1px solid whitesmoke;
+    color: cornsilk;
+    font-weight: bold;
+    
+}
